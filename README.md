@@ -22,3 +22,6 @@ Fun fact:
 
   Git-hub Statistics:
   https://github-readme-stats.vercel.app/api?username=Hugo-Jurriaans&show_icons=true&theme=tokyonight
+
+  Git-hub Streak:
+  https://github-readme-streaks.vercel.app/api?username=Hugo-Jurriaans&show_icons=true&theme=tokyonight
