@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Hugo-Jurriaans/Hugo-Jurriaans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working on:
+- Buildding websites using CSS Frameworks
 
-Here are some ideas to get you started:
+I am Learning how to:
+- Properly use CSS Frameworks like Bulma and Tailwind
+- Using Javascript to make my websites interactive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for help with:
+- Understanding how to find answers to solutions faster.
+- Knowing what to learn after HTML / CSS / JS
+
+Ask me about:
+- Physics (I like the subject)
+
+How to reach me:
+- E-mail me!: jurriaans.hugo@gmail.com
+
+Fun fact:
+- I used to like Graphic designing more that programming.
