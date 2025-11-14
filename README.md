@@ -20,5 +20,5 @@ How to reach me:
 Fun fact:
 - I used to like Graphic designing more that programming.
 
-  Statistics:
-  https://github-readme-stats.vercel.app/api?username=Hugo-Jurriaans
+  Git-hub Statistics:
+  https://github-readme-stats.vercel.app/api?username=Hugo-Jurriaans&show_icons=true&theme=tokyonight
