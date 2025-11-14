@@ -1,7 +1,7 @@
 Hi there 👋
 
 I am currently working on:
-- Buildding websites using CSS Frameworks
+- Building websites using CSS Frameworks
 
 I am Learning how to:
 - Properly use CSS Frameworks like Bulma and Tailwind
