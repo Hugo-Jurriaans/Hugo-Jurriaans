@@ -1,5 +1,8 @@
 Hi there 👋
 
+Check out my linkedin!
+- www.linkedin.com/in/hugo-jurriaans-ba8171435
+
 I am currently working on:
 - My personal Pokedex
 
