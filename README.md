@@ -1,24 +1,23 @@
 Hi there 👋
 
 I am currently working on:
-- Building websites using CSS Frameworks
+- My personal Pokedex
 
 I am Learning how to:
-- Properly use CSS Frameworks like Bulma and Tailwind
-- Using Javascript to make my websites interactive
+- How to use API's Effectively
+- Using Animations to make my websites stand out more.
 
 I am looking for help with:
-- Understanding how to find answers to solutions faster.
-- Knowing what to learn after HTML / CSS / JS
+- Understanding how to animate within websites
+- Learning React
 
 Ask me about:
-- Physics (I like the subject)
+- API's
+- Pop Culture
+- Graphic Design
 
 How to reach me:
 - E-mail me!: jurriaans.hugo@gmail.com
-
-Fun fact:
-- I used to like Graphic designing more that programming.
 
   Git-hub Statistics:
   https://github-readme-stats.vercel.app/api?username=Hugo-Jurriaans&show_icons=true&theme=tokyonight
